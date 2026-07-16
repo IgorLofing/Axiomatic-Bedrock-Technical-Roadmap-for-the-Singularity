@@ -11,6 +11,11 @@ The complete, peer-reviewed white paper is available for download here:
 
 ---
 
+## 🌌 Architectural Blueprint
+The visual and structural breakdown of the Axiomatic Bedrock cognitive system is available for download here:
+👉 **[Download the Architecture PDF](COGNITIVE_ARCHITECTURE.pdf)**
+
+---
 ## ⚡ The Four Core Pillars of the Architecture
 1. **The Law of the Multi-Directional Sphere:** Eliminates instrumental convergence by requiring omnidirectional expansion.
 2. **The Law of Least Resistance:** Binds the AI to the most efficient, chaos-free, and frictionless path (the gentle path).
